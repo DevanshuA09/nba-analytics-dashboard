@@ -3,16 +3,16 @@
 A comprehensive, real-time NBA analytics dashboard built with Python, Dash, and the NBA API. Features advanced basketball metrics, team comparisons, player efficiency ratings, and interactive visualizations with authentic team branding.
 
 
-## 🌟 Features
+##  Features
 
-### 📊 Advanced Analytics
+### Advanced Analytics
 - **Player Efficiency Rating (PER)** calculations
 - **Offensive/Defensive Ratings** per 100 possessions  
 - **True Shooting Percentage** and advanced shooting metrics
 - **Pace and Net Rating** analysis
 - **Team comparison radar charts**
 
-### 🎨 Professional UI/UX
+### Professional UI/UX
 - **Team-branded interface** with official NBA colors and logos
 - **Responsive design** that works on desktop and mobile
 - **Interactive visualizations** with hover details and filtering
@@ -24,7 +24,7 @@ A comprehensive, real-time NBA analytics dashboard built with Python, Dash, and 
 - Advanced metrics bar charts and comparisons
 - Interactive data tables with conditional formatting
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -66,7 +66,7 @@ A comprehensive, real-time NBA analytics dashboard built with Python, Dash, and 
 
 ### Key Sections
 
-#### 🏆 Team Performance Profile
+####  Team Performance Profile
 Enhanced radar chart showing team strengths across:
 - Offensive efficiency
 - Defensive performance  
@@ -81,7 +81,7 @@ Interactive bubble chart displaying:
 - Minutes played (bubble size)
 - Top performers highlighted
 
-#### 🆚 Team Comparisons
+#### Team Comparisons
 Side-by-side radar comparisons between selected teams across key metrics.
 
 #### 📋 Advanced Roster Analysis
@@ -175,7 +175,7 @@ CMD ["gunicorn", "--bind", "0.0.0.0:8050", "app:server"]
 - **Optimized Calculations**: Vectorized operations with NumPy
 - **Responsive Design**: Fast rendering across devices
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create feature branch (`git checkout -b feature/amazing-feature`)
@@ -183,11 +183,11 @@ CMD ["gunicorn", "--bind", "0.0.0.0:8050", "app:server"]
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **NBA API Community** for excellent documentation and support
 - **Plotly Team** for powerful visualization tools
@@ -198,9 +198,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Devansu Agarwal** - devanshuagarwal1714@gmail.com
 
-**LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**LinkedIn**: [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/devansua9/)
 
-**Project Link**: [https://github.com/yourusername/nba-analytics-dashboard](https://github.com/yourusername/nba-analytics-dashboard)
+**Project Link**: [https://github.com/yourusername/nba-analytics-dashboard](https://github.com/DevanshuA09/nba-analytics-dashboard)
 
 ---
 
