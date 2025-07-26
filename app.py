@@ -796,4 +796,6 @@ def update_ultimate_dashboard(data, selected_team, comparison_team):
         return error_header, error_header, error_fig, error_fig, error_fig, error_fig, "Error", error_fig, "", "", "Error"
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    import os
+    port = int(os.environ.get('PORT', 8050))
+    app.run(host='0.0.0.0', port=port, debug=False)
