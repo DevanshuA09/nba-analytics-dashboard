@@ -34,7 +34,7 @@ A comprehensive, real-time NBA analytics dashboard built with Python, Dash, and 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/nba-analytics-dashboard.git
+   git clone https://github.com/DevanshuA09/nba-analytics-dashboard.git
    cd nba-analytics-dashboard
    ```
 
