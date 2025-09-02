@@ -423,7 +423,7 @@ async def team_matchup(request: TeamMatchupRequest):
             "matchup": matchup_data,
             "timestamp": datetime.now().isoformat()
         }
-        
+
     except Exception as e:
         logger.error(f"Error getting team matchup: {e}")
         raise HTTPException(status_code=500, detail=f"Team matchup failed: {str(e)}")
